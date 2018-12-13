@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyFriends</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_register_t">registerT</string>
+    <string name="title_activity_says">says</string>
+</resources>
